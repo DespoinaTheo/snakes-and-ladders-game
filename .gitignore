@@ -1,0 +1,45 @@
+# Unity generated folders
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+UserSettings/
+SysInfo.txt
+
+# Visual Studio / JetBrains Rider
+.vs/
+.idea/
+*.csproj
+*.sln
+*.user
+*.unityproj
+*.pidb
+*.booproj
+*.svd
+
+# Auto-generated files
+ExportedObj/
+*.apk
+*.aab
+*.unitypackage
+*.app
+*.DS_Store
+.DS_Store
+Thumbs.db
+
+# Backup and crash files
+*.bak
+*.stackdump
+*.crash
+*.log
+
+# Cache
+[Bb]in/
+obj/
+.cache/
+
+# Package Manager
+Packages/com.unity.package-manager/
