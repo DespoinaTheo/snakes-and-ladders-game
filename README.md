@@ -19,7 +19,9 @@
 - **Modelling Software:** Visual Paradigm
 
 ## Extras
-- **UML diagrams**: ![Class Diagram](UML Diagramms/Class Diagram.jpg), ![Use Case Diagram](UML Diagramms/Use Case Diagram.jpg)
+- **UML diagrams**:
+--![Class Diagram](uml-diagramms/class-diagram.jpg)
+--![Use Case Diagram](uml-diagramms/use-case-diagram.jpg)
 
 
 ## How to Run
