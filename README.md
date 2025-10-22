@@ -20,8 +20,10 @@
 
 ## Extras
 - **UML diagrams**:  
---![Class Diagram](uml-diagramms/class-diagram.jpg)
---![Use Case Diagram](uml-diagramms/use-case-diagram.jpg)
+![Class Diagram]
+  (uml-diagramms/class-diagram.jpg)
+![Use Case Diagram]
+  (uml-diagramms/use-case-diagram.jpg)
 
 
 ## How to Run
