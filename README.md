@@ -19,11 +19,10 @@
 - **Modelling Software:** Visual Paradigm
 
 ## Extras
-- **UML diagrams**: Class Diagram, Use Case Diagram
-- **Code Metrics**: CCavg, CBO, LCOM 
+- **UML diagrams**: ![Class Diagram](UML Diagramms/Class Diagram.jpg), ![Use Case Diagram](UML Diagramms/Use Case Diagram.jpg)
+
 
 ## How to Run
-- Run the .exe file
-- **Otherwise**: Open the Project in Unity 2022.3.3f1
+- Open the Project in Unity 2022.3.3f1
 - The *Library* folder has been deleted to reduce the project size, so you need to select the *GameScene* from the *Scenes* folder.
 - Press Run to start
