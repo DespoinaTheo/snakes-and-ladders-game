@@ -20,9 +20,9 @@
 
 ## Extras
 - **UML diagrams**:
-Class Diagram
+  Class Diagram
 ![Class Diagram](uml-diagramms/class-diagram.jpg)
-Use Case Diagram
+  Use Case Diagram
 ![Use Case Diagram](uml-diagramms/use-case-diagram.jpg)
 
 
